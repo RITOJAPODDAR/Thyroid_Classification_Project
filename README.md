@@ -76,7 +76,7 @@ After downloading, place them in their respective folders.
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/thyroid-cancer-detection.git
+git clone https://github.com/yourusername/Thyroid_Classification_Project.git
 cd thyroid-cancer-detection
 ```
 
