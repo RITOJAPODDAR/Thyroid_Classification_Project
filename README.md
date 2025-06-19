@@ -103,6 +103,11 @@ pip install -r requirements.txt
 ---
 
 ## 🙋‍♀️ Author
+**Saunak Saha**
+Final Year B.Tech, KIIT University 
+Email: saunak.saha321@gmail.com
+LinkedIn: https://www.linkedin.com/in/saunak-saha-273506228/
+GitHub: https://github.com/Saunak11
 
 **Ritoja Poddar**  
 Final Year B.Tech, KIIT University  
